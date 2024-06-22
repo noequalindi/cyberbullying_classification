@@ -1,0 +1,26 @@
+version: '3.8'
+
+services:
+  fastapi:
+    build: .
+    ports:
+      - "8001:8001"
+    command: uvicorn api:app --host 0.0.0.0 --port 8001
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "200k"
+        max-file: "10"
+
+  dash:
+    build: .
+    ports:
+      - "8050:8050"
+    volumes:
+      - ./assets:/app/assets
+    command: python app.py
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "200k"
+        max-file: "10"

@@ -1,0 +1,10 @@
+dash==2.1.0
+dash-bootstrap-components==0.13.0
+requests==2.25.1
+fastapi==0.65.2
+uvicorn==0.17.6
+textblob==0.15.3
+scikit-learn==1.2.2
+pandas==2.0.3
+numpy
+werkzeug==2.0.3
