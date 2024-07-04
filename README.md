@@ -40,3 +40,10 @@ curl -X POST "http://localhost:8001/predict" -H "Content-Type: application/json"
   "clean_tweet": "im pretty sure high school bullies tik tokers"
 }'
 ```
+
+```
+muslim people are useless - religion
+fat bitch - gender
+im pretty sure high school bullies tik tokers - age
+
+```
