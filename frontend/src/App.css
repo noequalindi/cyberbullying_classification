@@ -30,8 +30,7 @@ h1, h2 {
 
 .content {
   width: 100%;
-  overflow-y: auto;
-  overflow-x: hidden;
+  overflow: hidden;
   margin: 0 auto;
 }
 
@@ -177,5 +176,5 @@ button:hover {
 
 .charts-container {
   width: 100%;
-  min-height: 680px;
+  min-height: 700px;
 }

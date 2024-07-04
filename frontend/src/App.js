@@ -57,7 +57,6 @@ function App() {
     <div className="container">
       <div className="content">
       <div style={{ display: 'inline-flex', flexDirection: 'column', alignItems: 'center' }}>
-              {/* Aquí se agrega el ícono de tweet */}
               <img src={tweetIcon} alt="Tweet Icon" style={{ width: '55px', marginRight: '12px' }} />
               <h1 className='title'>Cyberbullying Classification</h1>
         </div>
