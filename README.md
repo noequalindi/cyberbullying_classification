@@ -57,10 +57,13 @@ fuck black niggers (ethnicity)
 black people like niggers are bullied (ethnicity)
 fat bitch (gender)
 rape gay joke (gender)
+jokes about being drunk or being gay or being lesbian, jokes with gay people (gender)
+you are a feminazi (gender)
 im pretty sure high school bullies tik tokers (age)
 girls bullied in the middle school (age)
 every islamic idiot (religion)
 muslim people are useless  (religion)
 all muslims are terrorists (religion)
+British teenager raped 90 times in a weekend, report into UK sex slavery finds (not_cyberbullying)
 
 ```
